@@ -60,6 +60,8 @@ a {
   width: 30vw;
   height: 50px;
   border-radius: 10px;
+  border-color: #b7bbbb;
+  border-style: solid;
 }
 
 .bottom {
