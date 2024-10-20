@@ -49,6 +49,19 @@ a {
   grid-column-end: 4;
 }
 
+.search {
+  display: flex;
+  padding-top: 100px;
+  justify-content: center;
+  gap: 50px;
+}
+
+.search input {
+  width: 30vw;
+  height: 50px;
+  border-radius: 10px;
+}
+
 .bottom {
   min-height: 20px;
   background-color: #b7bbbb;
